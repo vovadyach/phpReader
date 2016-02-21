@@ -13,7 +13,6 @@
         $routeProvider
             .when('/', {
                 controller: 'LoginController',
-                templateUrl: 'home/home.view.html',
                 controllerAs: 'vm'
             })
             .when('/register', {
