@@ -1,4 +1,4 @@
 /**
  * Created by Vladimir Dyachenko on 21.02.16.
  */
-var rssApp = angular.module('commentApp', ['mainCtrl', rssService]);
+var rssApp = angular.module('rssApp', ['mainCtrl', rssService]);
